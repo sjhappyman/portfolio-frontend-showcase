@@ -1,0 +1,16 @@
+{
+  "name": "Sergio Jimenez Portfolio",
+  "short_name": "Sergio Jimenez",
+  "description": "Front-end development, UI/UX, branding, and graphic design portfolio.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1218",
+  "theme_color": "#0099ff",
+  "icons": [
+    {
+      "src": "/design-references/images/Logo-initials.png",
+      "sizes": "66x110",
+      "type": "image/png"
+    }
+  ]
+}

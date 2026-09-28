@@ -1,0 +1,38 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+.env
+.env.local
+.env*
+!.env.example
+
+# Local working files and deployment bundles
+tmp/
+*.zip
+
+# Design research is not part of the deployed app. Keep only the images the
+# site references at runtime.
+public/design-references/*
+!public/design-references/images/
+!public/design-references/images/**
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
