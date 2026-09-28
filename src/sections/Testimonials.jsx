@@ -6,7 +6,7 @@ import { Reveal } from "@/components/Reveal";
 const testimonials = [
   {
     quote:
-      "Sergio is one of the most talented UI/UX Designer I've worked with. His attention to detail and ability to translate complex requirements into elegant solutions is remarkable.",
+      "Sergio is a talented designer and front-end engineer. We have worked together on over ten different website for customers, government agencies, and even side projects. No matter the scale, scope, or budget, he always does a good job of putting the user experience front and center to build products and design assets that impress and present the organizations we work with in the best possible light. Sergio is a trusted colleague with a lot of heart, who cares deeply about his work, and any team would be lucky to have him!",
     author: "Rusty Pickens",
     role: "Founder & Principal",
     company: "580 Strategies",
